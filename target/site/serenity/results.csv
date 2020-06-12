@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"This feature is used to verify the response from the countries api","Get all the response from the api and verify the required countries are present or not","SUCCESS","2020-06-12T22:56:24.128+05:30[Asia/Calcutta]","0.0","3.41"
+"This feature is used to verify the response from the countries api to validate the capital","Get all the response from the api and verify the capital is matching or not","SUCCESS","2020-06-12T22:56:27.594+05:30[Asia/Calcutta]","0.0","0.76"
+"This feature is used to register a user using api and validate the response","Create a user and validate the obtained response","SUCCESS","2020-06-12T22:56:28.375+05:30[Asia/Calcutta]","0.0","1.91"
+"This feature is used to login and validate the response from the api","Login using the service and validate the response for valid and invalid credentials","SUCCESS","2020-06-12T22:56:30.295+05:30[Asia/Calcutta]","0.0","1.88"

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="This feature is used to register a user using api and validate the response" skipped="0" tests="1" time="1.91" timestamp="2020-06-12 10:56:28"><testcase name="Create a user and validate the obtained response"/></testsuite>

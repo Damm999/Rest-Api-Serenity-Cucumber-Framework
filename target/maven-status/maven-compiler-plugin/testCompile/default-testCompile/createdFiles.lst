@@ -1,0 +1,9 @@
+com\userapp\cucumber\runner\Runner.class
+com\userapp\utils\CommonUtils.class
+com\userapp\cucumber\steps\Assignment1.class
+com\userapp\cucumber\steps\Assignment2.class
+com\userapp\junit\FirstSerenityTest.class
+com\userapp\cucumber\steps\Assignment4.class
+com\userapp\cucumber\steps\Assignment3.class
+com\userapp\cucumber\serenity\UserSerenitySteps.class
+RestAPI\ApiAutomation\AppTest.class

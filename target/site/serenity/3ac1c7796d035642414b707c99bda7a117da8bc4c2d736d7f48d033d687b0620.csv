@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"This feature is used to register a user using api and validate the response","Create a user and validate the obtained response","SUCCESS","2020-06-12T22:56:28.375+05:30[Asia/Calcutta]","0.0","1.91"

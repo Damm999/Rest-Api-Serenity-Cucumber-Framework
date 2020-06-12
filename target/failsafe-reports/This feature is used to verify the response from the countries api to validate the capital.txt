@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: This feature is used to verify the response from the countries api to validate the capital
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.809 s - in This feature is used to verify the response from the countries api to validate the capital

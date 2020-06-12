@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="This feature is used to verify the response from the countries api" skipped="0" tests="1" time="3.41" timestamp="2020-06-12 10:56:24"><testcase name="Get all the response from the api and verify the required countries are present or not"/></testsuite>

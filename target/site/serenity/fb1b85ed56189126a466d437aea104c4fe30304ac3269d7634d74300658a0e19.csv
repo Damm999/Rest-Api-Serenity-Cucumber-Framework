@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"This feature is used to verify the response from the countries api","Get all the response from the api and verify the required countries are present or not","SUCCESS","2020-06-12T22:56:24.128+05:30[Asia/Calcutta]","0.0","3.41"

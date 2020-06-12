@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"This feature is used to login and validate the response from the api","Login using the service and validate the response for valid and invalid credentials","SUCCESS","2020-06-12T22:56:30.295+05:30[Asia/Calcutta]","0.0","1.88"
